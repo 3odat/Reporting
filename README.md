@@ -26,7 +26,7 @@ We successfully integrated **YOLOv6** with the **OAK-D Pro** to:
 
 Example detection output:
 
-![Vision Output](outside_sensors_Yolo.png)
+![Vision Output](images/outside_sensors_Yolo.png)
 
 ---
 
@@ -40,7 +40,7 @@ Using **MAVSDK-Python**, we accessed and streamed key PX4 telemetry data:
 
 This data is essential for mission safety and will be fused with vision data for **context-aware navigation**.
 
-![Internal Sensors](internal_sensors.png)
+![Internal Sensors](images/internal_sensors.png)
 
 ---
 
