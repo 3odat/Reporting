@@ -15,8 +15,6 @@ Our next milestone is building a **LangGraph-based Smart Agent** capable of exec
 - **GNSS:** M10 Multi-constellation GPS (GPS, Galileo, GLONASS, BeiDou)
 - **Power & Safety:** Bench testing with no propellers for development phase
 
-<image:hardware_setup>
-
 ---
 
 ## 2. Vision Integration (YOLOv6 + Depth)
@@ -28,7 +26,7 @@ We successfully integrated **YOLOv6** with the **OAK-D Pro** to:
 
 Example detection output:
 
-<image:vision_detection>
+![Vision Output](outside_sensors_Yolo.png)
 
 ---
 
@@ -42,7 +40,7 @@ Using **MAVSDK-Python**, we accessed and streamed key PX4 telemetry data:
 
 This data is essential for mission safety and will be fused with vision data for **context-aware navigation**.
 
-<image:sensor_dashboard>
+![Internal Sensors](internal_sensors.png)
 
 ---
 
@@ -52,7 +50,6 @@ This data is essential for mission safety and will be fused with vision data for
 - Successfully passed PX4 preflight GPS checks.
 - Achieved consistent satellite fixes in field environments.
 
-<image:gps_test>
 
 ---
 
@@ -65,7 +62,6 @@ This data is essential for mission safety and will be fused with vision data for
   - `takeoff()` to a safe altitude
   - `land()`
 
-<image:serial_connection>
 
 ---
 
@@ -84,7 +80,6 @@ Planned high-level capabilities:
 - Area survey and mapping
 - Event-triggered actions (e.g., "If person detected within 3m, hover and record video")
 
-<image:agent_architecture>
 
 ---
 
@@ -96,7 +91,6 @@ We will design a **web-based dashboard** to:
 - Render mission plan execution status
 - Log and playback mission events
 
-<image:dashboard_mockup>
 
 ---
 
