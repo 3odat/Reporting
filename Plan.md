@@ -13,7 +13,6 @@ The agent:
 
 ## 🏗️ System Architecture
 
-![System architecture diagram](diagram.png)
 
 **Layers**:
 1. **High-Level Reasoning (LangGraph Agent)**  
