@@ -10,9 +10,8 @@
 
 ### 📅 Date: August 2025
 
-### 🧑‍🎓 Prepared by: \[Your Name]
+### 🧑‍🎓 Prepared by: \[ Ibrahim Odat]
 
-### 🧑‍🏫 Supervisor: \[Your Professor’s Name]
 
 ### 📘 Project Focus: Designing Intelligent Agents with Context Engineering
 
