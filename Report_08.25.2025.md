@@ -1,4 +1,4 @@
-Here's a professional report you can share with your professor. It clearly outlines:
+# weekly report - Summary of what we have learned last week.
 
 * ✅ What you’ve learned about **Context Engineering**
 * 🎯 How it applies to **agent design**
